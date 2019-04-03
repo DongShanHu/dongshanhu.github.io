@@ -1,2 +1,2 @@
 # dongshanhu.github.io
-Learn how to develop Hexio 
+Learn how to develop Hexo 
